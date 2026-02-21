@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Boris Cherny (@bcherny)</title>
+    <link>https://x.com/bcherny</link>
+    <description>Posts by @bcherny on X</description>
+    <lastBuildDate>Sat, 21 Feb 2026 06:43:23 +0000</lastBuildDate>
+    <generator>boris-rss (x-syndication)</generator>
+    <item>
+      <title>@0xRaduan Summarization is one thing we do to reduce prompt injection risk. Are you running into spe…</title>
+      <link>https://x.com/bcherny/status/1989025306980860226</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1989025306980860226</guid>
+      <pubDate>Thu, 13 Nov 2025 17:39:22 +0000</pubDate>
+      <description>@0xRaduan Summarization is one thing we do to reduce prompt injection risk. Are you running into specific issues with it?</description>
+    </item>
+    <item>
+      <title>In the next version of Claude Code, Claude’s WebFetch tool automatically adds Accept: “text/markdown…</title>
+      <link>https://x.com/bcherny/status/1988860326306087102</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1988860326306087102</guid>
+      <pubDate>Thu, 13 Nov 2025 06:43:47 +0000</pubDate>
+      <description>In the next version of Claude Code, Claude’s WebFetch tool automatically adds Accept: “text/markdown, *” to requests which helps docs sites provide token-efficient docs https://t.co/uYthd1m9RP
+
+↩ @bunjavascript: When Claude Code fetches Bun’s docs, Bun’s docs now send markdown instead of HTML by default 
+
+This shrinks token usage for our docs by about 10x https://t.co/cvasTo6h43</description>
+    </item>
+    <item>
+      <title>/stickers</title>
+      <link>https://x.com/bcherny/status/1985538884051353921</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1985538884051353921</guid>
+      <pubDate>Tue, 04 Nov 2025 02:45:34 +0000</pubDate>
+      <description>/stickers</description>
+    </item>
+    <item>
+      <title>New PC Mag interview
+
+https://www.pcmag.com/news/claude-code-creator-we-didnt-mean-to-build-it-but-i…</title>
+      <link>https://x.com/bcherny/status/1980835873014141377</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1980835873014141377</guid>
+      <pubDate>Wed, 22 Oct 2025 03:17:28 +0000</pubDate>
+      <description>New PC Mag interview
+
+https://www.pcmag.com/news/claude-code-creator-we-didnt-mean-to-build-it-but-its-changed-everything</description>
+    </item>
+    <item>
+      <title>@anaghnairr @mihail_eric Don’t think so</title>
+      <link>https://x.com/bcherny/status/1979763526496641236</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1979763526496641236</guid>
+      <pubDate>Sun, 19 Oct 2025 04:16:21 +0000</pubDate>
+      <description>@anaghnairr @mihail_eric Don’t think so</description>
+    </item>
+    <item>
+      <title>Had a blast guest lecturing at Stanford CS 146S today. Thanks for the invite @mihail_eric! https://t…</title>
+      <link>https://x.com/bcherny/status/1979433934023950779</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1979433934023950779</guid>
+      <pubDate>Sat, 18 Oct 2025 06:26:40 +0000</pubDate>
+      <description>Had a blast guest lecturing at Stanford CS 146S today. Thanks for the invite @mihail_eric! https://t.co/nHRJeVlHlE
+
+↩ @mihail_eric: A lifelong dream of mine realized! I'm teaching a new computer science course at Stanford this fall: CS 146S The Modern Software Developer.
+
+Nearly 15 years after I fell in love with CS during undergrad, I get to go back to my alma mater to teach the next generation of computer</description>
+    </item>
+    <item>
+      <title>@Danishafzalkhan @sdrzn @BorisJohnson Tool call errors happen with every model provider — in claude …</title>
+      <link>https://x.com/bcherny/status/1977505599723303130</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977505599723303130</guid>
+      <pubDate>Sun, 12 Oct 2025 22:44:09 +0000</pubDate>
+      <description>@Danishafzalkhan @sdrzn @BorisJohnson Tool call errors happen with every model provider — in claude code we show errors while others hide them, so it may feel like they are happening more. The reason we show them is claude code is the same tool we use internally at Anthropic, and seeing the errors helps us debug</description>
+    </item>
+    <item>
+      <title>@julie_bush @DataWhispurr @sdrzn We recommend sonnet 4.5 for everything — you get more rate limits w…</title>
+      <link>https://x.com/bcherny/status/1977391322542535090</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977391322542535090</guid>
+      <pubDate>Sun, 12 Oct 2025 15:10:04 +0000</pubDate>
+      <description>@julie_bush @DataWhispurr @sdrzn We recommend sonnet 4.5 for everything — you get more rate limits with it, and it’s more intelligent for coding tasks. Re:hostile, specific examples would be helpful to debug</description>
+    </item>
+    <item>
+      <title>@mattrubens @sdrzn Yep just output. We used to have a lower max output limit but people asked for a …</title>
+      <link>https://x.com/bcherny/status/1977390736526987426</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977390736526987426</guid>
+      <pubDate>Sun, 12 Oct 2025 15:07:44 +0000</pubDate>
+      <description>@mattrubens @sdrzn Yep just output. We used to have a lower max output limit but people asked for a higher limit</description>
+    </item>
+    <item>
+      <title>@shaneholloman @trq212 👋 A few improvements landed last week, more on the way</title>
+      <link>https://x.com/bcherny/status/1977271487334957072</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977271487334957072</guid>
+      <pubDate>Sun, 12 Oct 2025 07:13:53 +0000</pubDate>
+      <description>@shaneholloman @trq212 👋 A few improvements landed last week, more on the way</description>
+    </item>
+    <item>
+      <title>@EricBuess @sdrzn We auto-compact for you when using the SDK, so you don't need to. To grab stats yo…</title>
+      <link>https://x.com/bcherny/status/1977165053456793624</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977165053456793624</guid>
+      <pubDate>Sun, 12 Oct 2025 00:10:57 +0000</pubDate>
+      <description>@EricBuess @sdrzn We auto-compact for you when using the SDK, so you don't need to. To grab stats yourself, read assistant_message.usage.</description>
+    </item>
+    <item>
+      <title>@sdrzn If you're seeing lower rate limits than what we publish, or if you're seeing auto-compact ear…</title>
+      <link>https://x.com/bcherny/status/1977163990485942278</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977163990485942278</guid>
+      <pubDate>Sun, 12 Oct 2025 00:06:43 +0000</pubDate>
+      <description>@sdrzn If you're seeing lower rate limits than what we publish, or if you're seeing auto-compact earlier than ~155k tokens, that's a bug. /bug to report.</description>
+    </item>
+    <item>
+      <title>@sdrzn 👋 Boris from the Claude Code team here.
+
+Compact behavior is the same as before -- the new ⛝ …</title>
+      <link>https://x.com/bcherny/status/1977163445205450783</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1977163445205450783</guid>
+      <pubDate>Sun, 12 Oct 2025 00:04:33 +0000</pubDate>
+      <description>@sdrzn 👋 Boris from the Claude Code team here.
+
+Compact behavior is the same as before -- the new ⛝ boxes in /context are just a cosmetic UI change that gives people more transparency into auto-compact. We always auto-compacted near 155k tokens so there's enough buffer. We do that for</description>
+    </item>
+    <item>
+      <title>@thecat Working on it</title>
+      <link>https://x.com/bcherny/status/1976510044490563937</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1976510044490563937</guid>
+      <pubDate>Fri, 10 Oct 2025 04:48:11 +0000</pubDate>
+      <description>@thecat Working on it</description>
+    </item>
+    <item>
+      <title>Super excited to release Plugins for Claude Code.
+
+Plugins are the easiest way to share and install …</title>
+      <link>https://x.com/bcherny/status/1976480652498436372</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1976480652498436372</guid>
+      <pubDate>Fri, 10 Oct 2025 02:51:23 +0000</pubDate>
+      <description>Super excited to release Plugins for Claude Code.
+
+Plugins are the easiest way to share and install bundles of agents, slash commands, MCP servers, and hooks.
+
+Something we saw people doing already, now we made it even easier.
+
+↩ @The_Whole_Daisy: Today we're announcing Claude Code plugins!
+
+https://t.co/WD2TfN8d3d
+
+It's the first major feature in Claude Code that I've gotten the opportunity to lead, and I'm really excited to see how everyone uses it! 🧵1/4</description>
+    </item>
+    <item>
+      <title>@Sauers_ @trq212 @seconds_0 👋 Boris from the Claude Code team here. Could you grab the raw transcrip…</title>
+      <link>https://x.com/bcherny/status/1964928176687292731</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1964928176687292731</guid>
+      <pubDate>Mon, 08 Sep 2025 05:45:58 +0000</pubDate>
+      <description>@Sauers_ @trq212 @seconds_0 👋 Boris from the Claude Code team here. Could you grab the raw transcript, available in ~/.claude/projects?</description>
+    </item>
+    <item>
+      <title>Thanks for having me on Matt. Had a blast!</title>
+      <link>https://x.com/bcherny/status/1953504180469219585</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1953504180469219585</guid>
+      <pubDate>Thu, 07 Aug 2025 17:11:05 +0000</pubDate>
+      <description>Thanks for having me on Matt. Had a blast!
+
+↩ @mattturck: Claude Code is a major (and accidental!) hit for @AnthropicAI that surprised even its creator, @bcherny. 
+
+Claude Code, an Agentic AI coding product that lives in the terminal. Most of the new code at Anthropic is created through it today. 
+
+And in the last 5 months since it was https://t.co/SdTml3QxX0</description>
+    </item>
+    <item>
+      <title>@robzolkos @suzuki Too much?</title>
+      <link>https://x.com/bcherny/status/1951830224481722538</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1951830224481722538</guid>
+      <pubDate>Sun, 03 Aug 2025 02:19:23 +0000</pubDate>
+      <description>@robzolkos @suzuki Too much?</description>
+    </item>
+    <item>
+      <title>@kylejeong idk either</title>
+      <link>https://x.com/bcherny/status/1951828264428961916</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1951828264428961916</guid>
+      <pubDate>Sun, 03 Aug 2025 02:11:36 +0000</pubDate>
+      <description>@kylejeong idk either</description>
+    </item>
+    <item>
+      <title>@suzuki 3</title>
+      <link>https://x.com/bcherny/status/1951825545274310679</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1951825545274310679</guid>
+      <pubDate>Sun, 03 Aug 2025 02:00:47 +0000</pubDate>
+      <description>@suzuki 3</description>
+    </item>
+    <item>
+      <title>@ryan_castner good idea..</title>
+      <link>https://x.com/bcherny/status/1951825309407523099</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1951825309407523099</guid>
+      <pubDate>Sun, 03 Aug 2025 01:59:51 +0000</pubDate>
+      <description>@ryan_castner good idea..</description>
+    </item>
+    <item>
+      <title>Claude Code SDK is now natively supported for Python and TypeScript</title>
+      <link>https://x.com/bcherny/status/1933208614778687557</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1933208614778687557</guid>
+      <pubDate>Thu, 12 Jun 2025 17:03:45 +0000</pubDate>
+      <description>Claude Code SDK is now natively supported for Python and TypeScript
+
+↩ @Linatawfik9: TypeScript and Python SDKs for Claude Code are here.
+
+Use the same agent and tools as Claude Code, and build them into your own agents and workflows.</description>
+    </item>
+    <item>
+      <title>Thanks @swyx + AI Engineer World's Fair for hosting me for a talk on the big stage last week! I did …</title>
+      <link>https://x.com/bcherny/status/1932652135549972935</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1932652135549972935</guid>
+      <pubDate>Wed, 11 Jun 2025 04:12:30 +0000</pubDate>
+      <description>Thanks @swyx + AI Engineer World's Fair for hosting me for a talk on the big stage last week! I did a speed run through the evolution of coding UX since the 1950's, and where I think we're headed.
+
+Video: https://www.youtube.com/watch?v=U-fMsbY-kHY&amp;t=18785s
+Slides: https://docs.google.com/presentation/d/1FGNy3wHoXEnVpgOTB9rtgdyjaQvEVHmhxGhHoGIPX98</description>
+    </item>
+    <item>
+      <title>@dafr0g_ @_catwu Yep it’s the best place. Give it a shot!</title>
+      <link>https://x.com/bcherny/status/1904972553908846616</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1904972553908846616</guid>
+      <pubDate>Wed, 26 Mar 2025 19:03:44 +0000</pubDate>
+      <description>@dafr0g_ @_catwu Yep it’s the best place. Give it a shot!</description>
+    </item>
+    <item>
+      <title>Thanks to Claude Code users for contributing incredible feedback! We just shipped more features base…</title>
+      <link>https://x.com/bcherny/status/1902046009611710648</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1902046009611710648</guid>
+      <pubDate>Tue, 18 Mar 2025 17:14:41 +0000</pubDate>
+      <description>Thanks to Claude Code users for contributing incredible feedback! We just shipped more features based on what we’re hearing from you all.
+
+See Cat’s thread for details on auto-accept mode, auto-compact for context, and filepath autocomplete.
+
+↩ @_catwu: Three more features for Claude Code today:
+
+First, auto-accept mode.
+
+Press Shift+Tab to toggle on auto-accept for file edits. This reduces friction while keeping you in the driver’s seat—you can tab in/out of auto-accept mode anytime. https://t.co/1WwoWbeWF2</description>
+    </item>
+    <item>
+      <title>@andrew_n_carr Love it! Curious, why not use Claude Code’s thinking mode for planning? To trigger sc…</title>
+      <link>https://x.com/bcherny/status/1896796442343428109</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1896796442343428109</guid>
+      <pubDate>Tue, 04 Mar 2025 05:34:47 +0000</pubDate>
+      <description>@andrew_n_carr Love it! Curious, why not use Claude Code’s thinking mode for planning? To trigger scratchpad thinking, just ask Code to “think”, “think harder”, and so on in natural language.</description>
+    </item>
+    <item>
+      <title>Introducing Sonnet 3.7 and Claude Code, Anthropic’s new agentic coding assistant. The team and I hav…</title>
+      <link>https://x.com/bcherny/status/1894114714009190463</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1894114714009190463</guid>
+      <pubDate>Mon, 24 Feb 2025 19:58:33 +0000</pubDate>
+      <description>Introducing Sonnet 3.7 and Claude Code, Anthropic’s new agentic coding assistant. The team and I have been hacking on Code for a while — can’t wait to hear what everyone thinks.
+
+https://www.anthropic.com/news/claude-3-7-sonnet</description>
+    </item>
+    <item>
+      <title>@captbaritone @itscigazze Seems like another case of https://github.com/microsoft/TypeScript/issues/…</title>
+      <link>https://x.com/bcherny/status/1743617893177135481</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1743617893177135481</guid>
+      <pubDate>Sat, 06 Jan 2024 12:57:55 +0000</pubDate>
+      <description>@captbaritone @itscigazze Seems like another case of https://github.com/microsoft/TypeScript/issues/14306</description>
+    </item>
+    <item>
+      <title>The product I work on (Instagram Maps) just launched globally! So excited to hear how people use it.</title>
+      <link>https://x.com/bcherny/status/1549926141599039489</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1549926141599039489</guid>
+      <pubDate>Thu, 21 Jul 2022 01:16:03 +0000</pubDate>
+      <description>The product I work on (Instagram Maps) just launched globally! So excited to hear how people use it.
+
+↩ @instagram: New map, who this? 🌐🗺️
+
+Now you can now find popular locations around you or filter by categories like cafes or beauty salons. https://t.co/asQR4MfljC</description>
+    </item>
+    <item>
+      <title>@onkeltem I catch up on PRs once in a while, but would love one or two co-maintainers who have autho…</title>
+      <link>https://x.com/bcherny/status/1512562430261428226</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1512562430261428226</guid>
+      <pubDate>Fri, 08 Apr 2022 22:46:00 +0000</pubDate>
+      <description>@onkeltem I catch up on PRs once in a while, but would love one or two co-maintainers who have authored a few substantial PRs themselves. Will catch up soon — sorry for the wait!</description>
+    </item>
+    <item>
+      <title>@captbaritone Dude... this is wicked cool</title>
+      <link>https://x.com/bcherny/status/1461543032243687428</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1461543032243687428</guid>
+      <pubDate>Fri, 19 Nov 2021 03:53:07 +0000</pubDate>
+      <description>@captbaritone Dude... this is wicked cool</description>
+    </item>
+    <item>
+      <title>@captbaritone @matthewwithanm @ja2ke @nstolmaker @setimmediate I’ve definitely met VR artists in the…</title>
+      <link>https://x.com/bcherny/status/1392342994972397571</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1392342994972397571</guid>
+      <pubDate>Wed, 12 May 2021 04:56:53 +0000</pubDate>
+      <description>@captbaritone @matthewwithanm @ja2ke @nstolmaker @setimmediate I’ve definitely met VR artists in the Bay. Try asking on the Noisebridge mailing list (https://www.noisebridge.net/wiki/Mailinglist), or a mailing list for a VR meetup in SF (https://www.meetup.com/SFVRCC/, https://www.meetup.com/virtualreality/) maybe?</description>
+    </item>
+    <item>
+      <title>@_georgesu Right. String literal unions, or regular objects.</title>
+      <link>https://x.com/bcherny/status/1168249898975686656</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1168249898975686656</guid>
+      <pubDate>Sun, 01 Sep 2019 19:50:55 +0000</pubDate>
+      <description>@_georgesu Right. String literal unions, or regular objects.</description>
+    </item>
+    <item>
+      <title>Reference Option implementation, which I'll include in Orielly's upcoming Programming TypeScript (ht…</title>
+      <link>https://x.com/bcherny/status/1031263554769285120</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/1031263554769285120</guid>
+      <pubDate>Sun, 19 Aug 2018 19:36:06 +0000</pubDate>
+      <description>Reference Option implementation, which I'll include in Orielly's upcoming Programming TypeScript (https://amzn.to/2nOy5FL). Could use a code review! https://gist.github.com/bcherny/f7db2a1e40c9c18e0a0acc739f5d34d8</description>
+    </item>
+    <item>
+      <title>@thelamkin @immir @apollographql @graphqlsummit @thelamkin Done!</title>
+      <link>https://x.com/bcherny/status/916027542313738241</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/916027542313738241</guid>
+      <pubDate>Thu, 05 Oct 2017 19:49:19 +0000</pubDate>
+      <description>@thelamkin @immir @apollographql @graphqlsummit @thelamkin Done!</description>
+    </item>
+    <item>
+      <title>@rauschma Would love your thoughts on https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaS…</title>
+      <link>https://x.com/bcherny/status/880565769443999745</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/880565769443999745</guid>
+      <pubDate>Thu, 29 Jun 2017 23:16:54 +0000</pubDate>
+      <description>@rauschma Would love your thoughts on https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)</description>
+    </item>
+    <item>
+      <title>@reactjs It's redirecting me to a spam website if I request it from the West Coast</title>
+      <link>https://x.com/bcherny/status/852670076071301120</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/852670076071301120</guid>
+      <pubDate>Thu, 13 Apr 2017 23:49:22 +0000</pubDate>
+      <description>@reactjs It's redirecting me to a spam website if I request it from the West Coast</description>
+    </item>
+    <item>
+      <title>@reactjs FYI the CDN endpoint linked in the docs (unpkg dot com/react@15.1.0/dist/react.js) seems to…</title>
+      <link>https://x.com/bcherny/status/852670002368987136</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/852670002368987136</guid>
+      <pubDate>Thu, 13 Apr 2017 23:49:05 +0000</pubDate>
+      <description>@reactjs FYI the CDN endpoint linked in the docs (unpkg dot com/react@15.1.0/dist/react.js) seems to be compromised!</description>
+    </item>
+    <item>
+      <title>@alexbaumgertner fn =&amp;gt; matrix = https://www.npmjs.com/package/transform-to-matrix + https://www.n…</title>
+      <link>https://x.com/bcherny/status/685938271222796288</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/685938271222796288</guid>
+      <pubDate>Sat, 09 Jan 2016 21:36:42 +0000</pubDate>
+      <description>@alexbaumgertner fn =&amp;gt; matrix = https://www.npmjs.com/package/transform-to-matrix + https://www.npmjs.com/package/css-to-matrix. other direction seems more difficult</description>
+    </item>
+    <item>
+      <title>@stevenewcomb I saw you at devconf, but didn't get to meet. I'm the perf evangelist at our 8 person …</title>
+      <link>https://x.com/bcherny/status/266750837622194177</link>
+      <guid isPermaLink="true">https://x.com/bcherny/status/266750837622194177</guid>
+      <pubDate>Fri, 09 Nov 2012 03:55:30 +0000</pubDate>
+      <description>@stevenewcomb I saw you at devconf, but didn't get to meet. I'm the perf evangelist at our 8 person startup - any way to try your lib ASAP?</description>
+    </item>
+  </channel>
+</rss>
